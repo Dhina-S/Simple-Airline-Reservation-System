@@ -1,0 +1,33 @@
+Enter 1 for First Class, 2 for Economy: 2
+Booked seat 6 (Economy)
+
+Enter 1 for First Class, 2 for Economy: 2
+Booked seat 7 (Economy)
+
+Enter 1 for First Class, 2 for Economy: 1
+Booked seat 1 (First Class)
+
+Enter 1 for First Class, 2 for Economy: 1
+Booked seat 2 (First Class)
+
+Enter 1 for First Class, 2 for Economy: 1
+Booked seat 3 (First Class)
+
+Enter 1 for First Class, 2 for Economy: 1
+Booked seat 4 (First Class)
+
+Enter 1 for First Class, 2 for Economy: 1
+Booked seat 5 (First Class)
+
+Enter 1 for First Class, 2 for Economy: 2
+Booked seat 8 (Economy)
+
+Enter 1 for First Class, 2 for Economy: 2
+Booked seat 9 (Economy)
+
+Enter 1 for First Class, 2 for Economy: 2
+Booked seat 10 (Economy)
+
+Enter 1 for First Class, 2 for Economy: 2
+Economy full. Book in First Class? (y/n): y
+First Class full too. Next flight leaves in 3 hours.
